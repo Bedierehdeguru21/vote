@@ -1,0 +1,8 @@
+{
+  "runtime": "python3.11",
+  "functions": {
+    "api/*.py": {
+      "maxDuration": 10
+    }
+  }
+}
